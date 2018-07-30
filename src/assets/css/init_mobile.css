@@ -1,0 +1,6 @@
+/* `盒模型` 解析方式设置 @see [Bootstrap](http://getbootstrap.com/docs/4.1/scss/_reboot.scss) */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
